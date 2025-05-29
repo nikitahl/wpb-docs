@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'WPBakery API Documentation',
   tagline: 'WPBakery API Documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favico-32x32.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -84,7 +84,7 @@ const config = {
         title: '',
         logo: {
           alt: 'WPBakery',
-          src: 'img/logo.svg',
+          src: 'img/wpbakery-logo-light.svg',
         },
         items: [
           {
