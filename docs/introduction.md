@@ -22,7 +22,7 @@ There are 6 steps to start developing elements for the WPBakery Page Builder plu
 
 ## Requirements
 
-To optimize your usage of the WPBakery Page Builder plugin, we kindly advise adhering to the following system requirements:
+To optimize your usage of the WPBakery Page Builder plugin, we kindly advise adhering to the following [system requirements](/docs/getting-started/environment-setup#requirements):
 
 **Recommended Server Configuration:**
 
@@ -41,7 +41,7 @@ Required PHP extensions:
 
 The minimum memory limit is 256MB.
 
-For installation, the upload_max_filesize should be greater than 7MB.
+For installation, the `upload_max_filesize` should be greater than 7MB.
 
 ## Resources
 
